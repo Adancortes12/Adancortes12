@@ -51,26 +51,6 @@ I'm focused on **Full Stack Development**, with a strong interest in **UX/UI des
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌿 NatuCamp
-
-Web application focused on nature tourism and camping experiences.  
-It allows users to explore outdoor destinations, view available activities, and access useful information for planning nature-based trips.
-
-**Tech:** React, Node.js, TailwindCSS
-
----
-
-### 🍰 Endulzarte
-
-Static website for a dessert shop with a modern, clean, and responsive design.  
-It includes a menu, promotions, about section, and reusable components.
-
-**Tech:** HTML, CSS, JavaScript, TailwindCSS
-
----
-
 📫 Contact
 
 Cortesadan1234@gmail.com
